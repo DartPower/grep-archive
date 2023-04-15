@@ -66,4 +66,3 @@ func main() {
 	}
 	internal.DoIt()
 }
-
